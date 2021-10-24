@@ -31,6 +31,18 @@ public class UserDB {
      * Generate the next user id.
      * @return The next user id
      */
+    /**
+     * Generate the next user id.
+     * @return The next user id
+     */
+    /**
+     * Generate the next user id.
+     * @return The next user id
+     */
+    /**
+     * Generate the next user id.
+     * @return The next user id
+     */
     public static int genNextUserId() {
         return nextUserId++;
     }
