@@ -31,6 +31,26 @@ public class UserDB {
      * Generate the next user id.
      * @return The next user id
      */
+    /**
+     * Add a session user.
+     * @param session The session.
+     * @param username The username.
+     */
+    /**
+     * Add a session user.
+     * @param session The session.
+     * @param username The username.
+     */
+    /**
+     * Add a session user.
+     * @param session The session.
+     * @param username The username.
+     */
+    /**
+     * Add a session user.
+     * @param session The session.
+     * @param username The username.
+     */
     public static int genNextUserId() {
         return nextUserId++;
     }
