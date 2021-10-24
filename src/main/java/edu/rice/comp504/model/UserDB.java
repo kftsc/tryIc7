@@ -32,6 +32,18 @@ public class UserDB {
      * @return The next user id
      */
     /**
+     * Generate the next user id.
+     * @return The next user id
+     */
+    /**
+     * Generate the next user id.
+     * @return The next user id
+     */
+    /**
+     * Generate the next user id.
+     * @return The next user id
+     */
+    /**
      * Add a session user.
      * @param session The session.
      * @param username The username.
